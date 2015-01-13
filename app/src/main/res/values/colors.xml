@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error_text_color">#ffaf1603</color>
+    <color name="main_color">#f47803</color>
+
+    <color name="primaryColor">#ffcc5f03</color>
+    <color name="primaryColorDark">#ffa74707</color>
+    <color name="accentColor">#fff4cd05</color>
+    <color name="White">#ffcc462c</color>
+</resources>

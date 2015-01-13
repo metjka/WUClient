@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Login Activity-->
+    <string name="app_name">Harmonogram</string>
+    <string name="log_in_btn">Zaloguj</string>
+    <string name="login_error_text">Niepoprawny login\nlub hasło</string>
+    <string name="connection_error_text">Brak połączenia!</string>
+    <string name="connection_ok_text">Połączenie zostało ustawione</string>
+    <string name="connection_dialog_title">Logowanie</string>
+    <string name="connection_dialog_text1">Sprawdzam połączenie z serwerem . . .</string>
+    <string name="connection_dialog_text2">Sprawdzam login i hasło . . .</string>
+
+    <!--Left Drawer-->
+    <string name="drawer_schedule" translatable="false">Harmonogram</string>
+    <string name="drawer_marks" translatable="false">Oceny</string>
+    <string name="drawer_finanses" translatable="false">Finansy</string>
+    <string name="drawer_search" translatable="false">Wyszukiwarka</string>
+    <string name="drawer_extra" translatable="false">Dodatkowo</string>
+
+    <!--Main Activity-->
+    <string name="drawer_open" translatable="false">open</string>
+    <string name="drawer_close" translatable="false">close</string>
+
+    <string name="title_activity_main" translatable="false">Main</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!--<string name="action_example" translatable="false">Example action</string>-->
+
+
+
+</resources>

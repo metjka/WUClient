@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розклад</string>
+    <string name="log_in_btn">Увійти</string>
+    <string name="login_error_text">Невірний логін\nабо пароль</string>
+    <string name="connection_error_text">Відсутнє з\'єднання!</string>
+    <string name="connection_ok_text">З\'єднання встановлено</string>
+    <string name="connection_dialog_title">Аутентифікація</string>
+    <string name="connection_dialog_text1">Перевірка з\'єднання з сервером . . .</string>
+    <string name="connection_dialog_text2">Перевірка логіну і паролю . . .</string>
+</resources>
