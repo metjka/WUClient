@@ -168,6 +168,7 @@ public class LoginActivity extends Activity {
             {
                 Intent Main = new Intent(LoginActivity.this, ScheduleActivity.class);
                 startActivity(Main);
+                finish();
             }
         });
     }
